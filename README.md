@@ -14,3 +14,5 @@
 ##### Teste título 5
 
 ###### Teste título 6
+
+Lembrei do comando: git commit
